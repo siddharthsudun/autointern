@@ -1,0 +1,58 @@
+{
+  "name": "Your Name",
+  "email": "you@example.com",
+  "phone": "+1-234-567-8900",
+  "linkedin_url": "https://linkedin.com/in/yourhandle",
+  "github_url": "https://github.com/yourhandle",
+  "portfolio_url": "https://yoursite.com",
+
+  "education": [
+    {
+      "institution": "BITS Pilani",
+      "degree": "B.E. Electrical & Electronics",
+      "graduation_year": 2027,
+      "gpa": "9.0/10"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Your Startup",
+      "role": "Co-founder & CEO",
+      "duration": "Jan 2024 – Present",
+      "bullets": [
+        "Built X that does Y, resulting in Z",
+        "Led a team of N to ship feature in N weeks"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "One sentence on what it does and why you built it",
+      "technologies": ["Next.js", "Python", "PostgreSQL"],
+      "bullets": [
+        "Specific technical achievement with numbers",
+        "Another specific outcome"
+      ],
+      "url": "https://github.com/you/project"
+    }
+  ],
+
+  "skills": [
+    "Python", "TypeScript", "React", "Next.js", "PostgreSQL",
+    "FastAPI", "Node.js", "Three.js", "Claude API"
+  ],
+
+  "target_roles": ["engineering", "product", "growth"],
+  "target_industries": ["developer tools", "AI", "B2B SaaS", "consumer"],
+  "preferred_locations": ["Remote", "San Francisco", "New York"],
+  "open_to_remote": true,
+
+  "bio": "I'm a 2nd-year ECE student at BITS Pilani and co-founder of a consumer startup. I build quickly, care about product intuition, and have shipped full-stack apps used by real people.",
+
+  "tone_keywords": ["direct", "curious", "builder", "low ego"],
+
+  "resume_pdf_path": "./resume.pdf"
+}
