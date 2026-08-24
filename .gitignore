@@ -21,3 +21,6 @@ build/
 # OS / logs
 .DS_Store
 *.log
+
+# personal profile (real PII) — never commit
+backend/profile.json
